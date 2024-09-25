@@ -45,7 +45,7 @@ const OpdrachtTwo = () => {
               alt={`${getCountry.name.common} flag`}
               width="100"
             />
-            <h1>
+            <h1> 
             {getCountry.name.common}
             </h1>
            
